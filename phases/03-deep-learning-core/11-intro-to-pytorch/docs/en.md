@@ -7,6 +7,12 @@
 **Prerequisites:** Lesson 03.10 (Build Your Own Mini Framework)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build and train neural networks using PyTorch's nn.Module, nn.Sequential, and autograd

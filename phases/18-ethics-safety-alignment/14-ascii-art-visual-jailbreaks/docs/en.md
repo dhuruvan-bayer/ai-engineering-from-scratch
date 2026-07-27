@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 12 (PAIR), Phase 18 · 13 (MSJ)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe the ArtPrompt attack: word-identification step, ASCII-art substitution, final cloaked prompt.

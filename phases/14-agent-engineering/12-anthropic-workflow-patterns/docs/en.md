@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 01 (Agent Loop)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name Anthropic's five workflow patterns: prompt chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer.

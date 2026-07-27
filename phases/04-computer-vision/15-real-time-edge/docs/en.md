@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 4 Lesson 04 (Image Classification), Phase 10 Lesson 11 (Quantization)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Measure inference latency, peak memory, and throughput for any PyTorch model, and read the FLOPs / params / latency trade-off

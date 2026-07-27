@@ -7,6 +7,12 @@
 **Prerequisites:** Phases 14 · 32 to 14 · 40
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Bring the seven workbench surfaces together on a small application.

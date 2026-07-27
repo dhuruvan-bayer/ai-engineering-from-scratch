@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track B foundations, lessons 70 and 71
 **Time:** ~90 min
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning objectives
 
 - Compute token-level perplexity on a held-out corpus from token negative log-probabilities supplied by the model adapter.

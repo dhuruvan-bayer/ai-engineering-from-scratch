@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1, Lesson 04 (Derivatives & Gradients)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build a minimal autograd engine (Value class) that records operations and computes gradients via reverse-mode autodiff

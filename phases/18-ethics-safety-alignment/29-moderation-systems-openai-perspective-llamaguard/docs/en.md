@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 16 (Llama Guard / Garak / PyRIT)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe the OpenAI Moderation API's category taxonomy and how it differs from Llama Guard 3's MLCommons set.

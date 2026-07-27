@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 lessons 42 to 45
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Bring up a process group across N ranks with the `gloo` backend, no special hardware.

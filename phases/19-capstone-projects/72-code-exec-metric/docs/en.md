@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track B foundations, lessons 70 and 71
 **Time:** ~90 min
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning objectives
 
 - Extract a code block from a free-form generation in a way that matches the post-process rule from lesson 70.

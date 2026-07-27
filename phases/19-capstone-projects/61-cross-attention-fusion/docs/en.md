@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 lessons 30-37 (Track B foundations)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement multi-head cross-attention where the query stream is text and the key/value stream is vision.

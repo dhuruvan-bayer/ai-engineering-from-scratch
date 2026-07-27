@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10, Lesson 01 (Tokenizers: BPE, WordPiece, SentencePiece)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build a production-grade BPE tokenizer that handles Unicode, whitespace normalization, and special tokens

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 08 (LLaVA-OneVision)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain why temporal positional encoding changes video VLM performance independently of the vision encoder.

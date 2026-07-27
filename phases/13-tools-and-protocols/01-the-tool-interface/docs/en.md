@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 11 (LLM completion APIs)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain why an LLM that can only generate text cannot, on its own, take actions against the real world.

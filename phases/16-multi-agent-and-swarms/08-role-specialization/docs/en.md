@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 16 · 04 (Primitive Model), Phase 16 · 05 (Supervisor)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Problem
 
 Generic multi-agent systems produce generic output. Three coders in a group chat write three flavors of the same mediocre code. You can add more agents, add more rounds, and still not cross the quality threshold.

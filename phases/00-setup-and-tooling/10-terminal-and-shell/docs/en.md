@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 0, Lesson 01
 **Time:** ~35 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Use piping, redirects, and `grep` to filter and process training logs from the command line

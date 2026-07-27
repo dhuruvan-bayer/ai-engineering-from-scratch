@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 09 (transports), Phase 13 · 15 (security I)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Distinguish resource server from authorization server responsibilities.

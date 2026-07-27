@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 07 (MCP server)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Distinguish the three layers: AGENTS.md (project context), SKILL.md (reusable know-how), MCP (tools).

@@ -7,6 +7,12 @@
 **Prerequisites:** Lesson 11.01 (Prompt Engineering)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement few-shot prompting by selecting and formatting example demonstrations that maximize task accuracy

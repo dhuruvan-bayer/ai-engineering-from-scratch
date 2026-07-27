@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1 Lesson 12 (Tensor Operations), Phase 3 Lesson 11 (Intro to PyTorch)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain how a continuous scene gets discretized into pixels and why sampling/quantization decisions set the ceiling on every downstream model

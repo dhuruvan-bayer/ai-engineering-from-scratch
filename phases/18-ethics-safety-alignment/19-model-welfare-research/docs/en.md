@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 05 (Constitutional AI), Phase 18 · 18 (safety frameworks)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe the motivating question for model-welfare research and why it was taken seriously by a major lab in 2025.

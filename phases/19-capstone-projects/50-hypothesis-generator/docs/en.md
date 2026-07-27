@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track A lessons 20-29
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Drive a sampler from a seed prompt and turn its outputs into typed hypothesis records.
 - Ramp the sampler temperature on each pass so the next draft drifts further from the last.

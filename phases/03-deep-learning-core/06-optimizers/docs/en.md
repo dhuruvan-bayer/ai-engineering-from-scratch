@@ -7,6 +7,12 @@
 **Prerequisites:** Lesson 03.05 (Loss Functions)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement SGD, SGD with momentum, Adam, and AdamW optimizers from scratch in Python

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track C lessons 42-49
 **Time:** ~90 min
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Shard optimiser state (first moment, second moment, fp32 master copy) across N ranks so each rank owns 1/N.

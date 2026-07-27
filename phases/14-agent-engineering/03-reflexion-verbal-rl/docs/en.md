@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 01 (Agent Loop), Phase 14 · 02 (ReWOO)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name the three components of Reflexion (Actor, Evaluator, Self-Reflector) and the role of episodic memory.

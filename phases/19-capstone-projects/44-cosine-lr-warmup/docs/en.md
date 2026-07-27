@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 lessons 30-37
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement an AdamW optimizer wired to a cosine learning-rate schedule with linear warmup.

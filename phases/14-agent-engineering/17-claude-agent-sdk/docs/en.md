@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 01 (Agent Loop), Phase 14 · 10 (Skill Libraries)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain the difference between the Anthropic Client SDK (raw API) and the Claude Agent SDK (harness shape).

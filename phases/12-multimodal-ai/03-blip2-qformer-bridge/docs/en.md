@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 02 (CLIP), Phase 7 (Transformers)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain why a trainable bottleneck between a frozen vision encoder and frozen LLM beats end-to-end finetuning in cost and stability.

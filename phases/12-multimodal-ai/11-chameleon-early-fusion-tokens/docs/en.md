@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 05, Phase 8 (Generative AI)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain why a shared vocabulary + single loss changes what the model can do.

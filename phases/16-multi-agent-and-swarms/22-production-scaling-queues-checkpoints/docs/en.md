@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 16 · 09 (Parallel Swarm Networks), Phase 16 · 13 (Shared Memory)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Problem
 
 A prototype multi-agent system works on one laptop with three agents in an in-memory event loop. You move to production:

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 0, Lesson 01
 **Time:** ~30 minutes
 
+## Progress
+
+- [x] Read the lesson
+- [x] Ran the code and tests
+- [x] Completed the quiz
+
 ## Learning Objectives
 
 - Create isolated virtual environments using `uv`, `venv`, or `conda`

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 0, Lesson 01
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Load, stream, and cache datasets using the Hugging Face `datasets` library

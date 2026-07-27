@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track C lessons 42-49
 **Time:** ~90 min
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Split a sequential model into N stages and simulate a forward pipeline across N ranks.

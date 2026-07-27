@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 17 (WMDP), Phase 18 · 07-09 (deception failures)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe Anthropic's ASL tier structure and what activated ASL-3.

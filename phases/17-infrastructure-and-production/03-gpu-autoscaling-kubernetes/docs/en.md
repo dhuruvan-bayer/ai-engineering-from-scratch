@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 17 · 02 (Inference Platform Economics), Phase 17 · 04 (Serving Engine Internals)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Diagram the three autoscaling layers (node provisioning, gang scheduling, application-level) and name the tool used at each layer.

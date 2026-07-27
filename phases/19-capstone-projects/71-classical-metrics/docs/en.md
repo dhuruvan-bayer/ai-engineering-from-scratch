@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track B foundations, lesson 70
 **Time:** ~90 min
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning objectives
 
 - Implement token-level exact-match, F1, and accuracy with explicit tokenisation rules.

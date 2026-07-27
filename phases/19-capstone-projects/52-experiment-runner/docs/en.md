@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track A lessons 20-29
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Encode an experiment as a typed spec the runner can serialise to a subprocess.
 - Launch a subprocess with a hard wall clock timeout and a soft memory cap, and surface both as terminal conditions.

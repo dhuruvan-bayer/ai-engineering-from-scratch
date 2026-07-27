@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 06 (patch-n'-pack)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Compute M-RoPE's three-axis rotations (temporal, height, width) and explain why all three are needed.

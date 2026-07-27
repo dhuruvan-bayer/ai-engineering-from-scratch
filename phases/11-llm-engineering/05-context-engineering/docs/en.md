@@ -8,6 +8,13 @@
 **Time:** ~90 minutes
 **Related:** Phase 11 · 15 (Prompt Caching) — the cache-friendly layout is an extension of context engineering. Phase 5 · 28 (Long-Context Evaluation) for how to measure lost-in-the-middle with NIAH/RULER.
 
+
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Calculate token budgets across all context window components (system prompt, tools, history, retrieved docs, generation headroom)

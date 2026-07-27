@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1 (Linear Algebra Intuition)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement a perceptron from scratch in Python, including the weight update rule and step activation function

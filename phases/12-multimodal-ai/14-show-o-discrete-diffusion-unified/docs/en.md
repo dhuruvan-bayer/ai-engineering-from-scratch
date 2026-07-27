@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 13 (Transfusion)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain masked discrete diffusion: the schedule that masks tokens uniformly then asks the transformer to recover them.

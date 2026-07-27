@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1 (Lesson 14 Norms and Distances)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement KNN classification and regression from scratch with configurable K and distance-weighted voting

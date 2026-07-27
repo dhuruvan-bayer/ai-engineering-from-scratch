@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 5 · 06 (NER), Phase 5 · 25 (Entity Linking)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## The Problem
 
 An analyst reads: "Tim Cook became CEO of Apple in 2011." Four facts:

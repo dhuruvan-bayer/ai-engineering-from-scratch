@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 07 (building an MCP server)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Spawn an MCP server as a child process, complete `initialize`, and send a `notifications/initialized`.

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 15 (indirect prompt injection)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe the EchoLeak attack chain from email delivery to data exfiltration.

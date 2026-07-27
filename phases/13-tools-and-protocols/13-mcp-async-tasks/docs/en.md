@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 07 (MCP server), Phase 13 · 09 (transports)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Identify when to promote a tool from synchronous to task-augmented (>30 seconds of server-side work).

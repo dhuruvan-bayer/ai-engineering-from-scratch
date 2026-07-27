@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 07 (MCP server), Phase 13 · 08 (MCP client)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name the seven attack classes: tool poisoning, rug pulls, cross-server shadowing, MPMA, parasitic toolchains, sampling attacks, supply-chain masquerading.

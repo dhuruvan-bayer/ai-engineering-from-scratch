@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10, Lesson 04 (Pre-Training a Mini GPT)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain the three types of parallelism (data, tensor, pipeline) and when each is necessary based on model and cluster size

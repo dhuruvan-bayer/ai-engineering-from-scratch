@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 2, Lessons 01-09 (ML basics, regression, classification, evaluation)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Derive the bias-variance decomposition of expected prediction error and explain the role of irreducible noise

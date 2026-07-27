@@ -7,6 +7,12 @@
 **Prerequisites:** Lesson 03.02 (Multi-Layer Networks)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement a Value-based autograd engine that builds a computational graph and computes gradients via topological sort

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 32 (Minimal Workbench)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Define what belongs in repo memory and what belongs in chat history.

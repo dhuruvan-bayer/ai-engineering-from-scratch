@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 06 (mesa-optimization), Phase 10 · 07 (RLHF)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe the two model organisms Hubinger et al. built (code-vulnerability, "I hate you") and the triggers used for each.

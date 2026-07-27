@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10, Lessons 06-08 (SFT, RLHF, DPO)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement the Constitutional AI two-stage loop: self-critique plus self-revision, then preference training on the revised pairs

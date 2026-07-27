@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 11 (LLM Engineering), Phase 13 (Tools & Protocols)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name the three platform strategies (marketplace vs exclusive vs Gemini-first) and match each to a product use case.

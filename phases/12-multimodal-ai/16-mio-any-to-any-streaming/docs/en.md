@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 11 (Chameleon), Phase 6 (Speech and Audio)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Design a shared vocabulary that hosts text, image, speech, and music tokens without collisions.

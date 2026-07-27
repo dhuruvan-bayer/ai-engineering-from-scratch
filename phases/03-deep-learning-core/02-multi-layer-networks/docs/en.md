@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 01 (Math Foundations), Lesson 03.01 (The Perceptron)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build a multi-layer network from scratch with Layer and Network classes that perform a complete forward pass

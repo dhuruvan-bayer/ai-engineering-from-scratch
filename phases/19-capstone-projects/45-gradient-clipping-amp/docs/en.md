@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 lessons 30-37
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Compute the global L2 norm over all parameter gradients and clip in place when it exceeds a configured threshold.

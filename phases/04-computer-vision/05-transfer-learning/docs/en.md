@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 4 Lesson 03 (CNNs), Phase 4 Lesson 04 (Image Classification)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Distinguish feature extraction from fine-tuning and pick the right one based on dataset size, domain distance, and compute budget

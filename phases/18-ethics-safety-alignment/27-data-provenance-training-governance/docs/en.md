@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 24 (regulatory), Phase 18 · 26 (cards)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe California AB 2013's 12 mandated fields for Generative AI training-data transparency.

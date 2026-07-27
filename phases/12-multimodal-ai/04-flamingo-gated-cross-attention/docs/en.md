@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 03 (BLIP-2 Q-Former)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain how gated cross-attention preserves a frozen LLM's text capability at initialization via tanh(gate) = 0.

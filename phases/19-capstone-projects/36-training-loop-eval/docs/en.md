@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 lessons 30 to 35
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build a training loop that computes cross entropy loss with the correct input and target alignment for next token prediction.

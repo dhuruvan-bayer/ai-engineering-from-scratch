@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 2, Lesson 10 (Bias-Variance Tradeoff)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement AdaBoost and gradient boosting from scratch and explain how boosting sequentially reduces bias

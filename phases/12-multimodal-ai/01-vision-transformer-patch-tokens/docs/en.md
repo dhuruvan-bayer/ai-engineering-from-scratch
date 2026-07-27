@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 7 (Transformers), Phase 4 (Computer Vision)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Convert an HxWx3 image into a sequence of patch tokens with correct positional encoding.

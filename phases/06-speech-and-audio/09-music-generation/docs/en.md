@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 6 · 02 (Spectrograms), Phase 4 · 10 (Diffusion Models)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## The Problem
 
 Text → a 30-second to 4-minute music clip, with lyrics, vocals, and structure. Three sub-problems:

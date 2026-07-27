@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 17 · 19 (AI Gateways), Phase 17 · 13 (Observability)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Enumerate the four secret-management anti-patterns (config files in VCS, hardcoded env, spreadsheets, static keys) and name their replacements.

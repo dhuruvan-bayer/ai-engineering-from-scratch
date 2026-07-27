@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 17 · 25 (Security), Phase 17 · 13 (Observability)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Enumerate the seven 2026 frameworks relevant to LLM products and match each to a customer segment.

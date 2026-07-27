@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1, Lessons 06-07 (probability, Bayes)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Simulate 1D and 2D random walks and verify the sqrt(n) scaling of displacement

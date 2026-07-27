@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 lessons 50-53
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Model a research workflow as a hypothesis queue feeding parallel experiment slots whose results fan back in.

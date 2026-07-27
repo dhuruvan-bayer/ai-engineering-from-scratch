@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 31 (Why Capable Models Still Fail)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Define the three files that form the minimum viable workbench.

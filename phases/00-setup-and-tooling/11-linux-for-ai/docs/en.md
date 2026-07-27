@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 0, Lesson 01
 **Time:** ~30 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Navigate the Linux file system and perform essential file operations from the command line

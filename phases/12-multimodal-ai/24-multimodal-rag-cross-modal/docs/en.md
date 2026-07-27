@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 23 (ColPali), Phase 11 (RAG basics)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Design cross-modal retrieval: text → image, image → text, audio → video, etc.

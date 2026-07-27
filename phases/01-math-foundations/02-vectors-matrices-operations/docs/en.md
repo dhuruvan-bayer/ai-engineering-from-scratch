@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1, Lesson 01 (Linear Algebra Intuition)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build a Matrix class with element-wise operations, matrix multiplication, transpose, determinant, and inverse

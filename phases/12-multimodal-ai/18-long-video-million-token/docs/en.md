@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 17 (video temporal tokens)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Compute total visual-token counts for long-form video at varying FPS and pooling.

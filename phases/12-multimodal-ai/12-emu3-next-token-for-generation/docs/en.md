@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 11 (Chameleon)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain why Emu3's single-loss next-token objective works despite the long-held assumption that diffusion is required for image quality.

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1 (Norms & Distances, Probability & Distributions), Phase 2 Lessons 1-6
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement K-Means, DBSCAN, and Gaussian Mixture Models from scratch and compare their clustering behavior

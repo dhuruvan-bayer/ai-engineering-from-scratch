@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 05 (word embeddings), Phase 18 · 01 (instruction following)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Define representational vs allocational harm and give one example of each in an LLM deployment.

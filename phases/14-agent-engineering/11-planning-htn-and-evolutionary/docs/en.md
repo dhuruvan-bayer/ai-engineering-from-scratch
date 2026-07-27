@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 02 (ReWOO and Plan-and-Execute)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain Hierarchical Task Networks: tasks, methods, operators, preconditions, effects.

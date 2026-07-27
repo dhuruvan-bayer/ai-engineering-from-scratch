@@ -7,6 +7,12 @@
 **Prerequisites:** Phases 14 · 31 to 14 · 41
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Package the seven workbench surfaces into one drop-in directory.

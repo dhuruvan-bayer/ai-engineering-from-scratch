@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 05 (LLaVA), Phase 12 · 06 (any-resolution)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Design a visual-token budget that holds constant across single-image, multi-image, and video inputs.

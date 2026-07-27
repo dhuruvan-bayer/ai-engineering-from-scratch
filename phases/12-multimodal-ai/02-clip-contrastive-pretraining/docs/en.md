@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 01 (ViT patches), Phase 7 (Transformers)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Derive InfoNCE loss from mutual information and implement a numerically-stable vectorized version.

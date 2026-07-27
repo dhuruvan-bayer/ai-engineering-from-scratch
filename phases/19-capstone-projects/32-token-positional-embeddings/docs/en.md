@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 04 lessons, Phase 07 transformer lessons, Lessons 30 and 31 of this phase
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Build a token-embedding lookup table that maps vocabulary ids to dense vectors.
 - Build a learned positional-embedding lookup table indexed by position.

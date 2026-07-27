@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 6 (Speech and Audio), Phase 12 · 03 (Q-Former)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Compute a log-Mel spectrogram from a waveform: windowing, FFT, filter banks, log transform.

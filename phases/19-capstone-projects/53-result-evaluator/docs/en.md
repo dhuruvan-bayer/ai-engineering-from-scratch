@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track A lessons 20-29
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Compare a candidate run against a baseline using direction aware improvement and a fixed threshold.
 - Run a paired t test from scratch over per seed metrics and read the resulting p value.

@@ -8,6 +8,13 @@
 **Time:** ~75 minutes
 **Related:** Phase 11 · 14 (Model Context Protocol) — when a tool is shared across hosts, graduate from inline function-calling to an MCP server. This lesson covers the inline case; MCP covers the protocol case.
 
+
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement a function calling loop: define tool schemas, parse the model's tool-call JSON, execute functions, and return results

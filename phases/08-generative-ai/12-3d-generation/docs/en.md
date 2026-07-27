@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 4 (Vision), Phase 8 · 07 (Latent Diffusion)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## The Problem
 
 3D content is painful:

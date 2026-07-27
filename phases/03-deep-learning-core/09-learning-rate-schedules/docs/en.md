@@ -7,6 +7,12 @@
 **Prerequisites:** Lesson 03.06 (Optimizers), Lesson 03.08 (Weight Initialization)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement constant, step decay, cosine annealing, warmup + cosine, and 1cycle learning rate schedules from scratch

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 01 (InstructGPT), Phase 18 · 02 (Reward hacking)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - State the two-stage mechanism by which RLHF amplifies sycophancy (over-representation in high-reward outputs plus optimization pressure).

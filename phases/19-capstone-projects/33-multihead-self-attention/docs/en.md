@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 04 lessons, Phase 07 transformer lessons, Lessons 30 through 32 of this phase
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Implement a batched Query/Key/Value projection as a single linear layer split into H heads.
 - Compute scaled dot-product attention with the correct normalization and dtype handling.

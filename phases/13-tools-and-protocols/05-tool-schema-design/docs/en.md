@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 01 (the tool interface), Phase 13 · 04 (structured output)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Write a tool description using the "Use when X. Do not use for Y." pattern, under 1024 characters.

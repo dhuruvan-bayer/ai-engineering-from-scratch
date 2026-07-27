@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10, Lesson 07 (RLHF)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement DPO training that directly optimizes a language model on preference pairs without a separate reward model

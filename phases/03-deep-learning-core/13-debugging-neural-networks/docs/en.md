@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 03 Lessons 01-10 (especially backpropagation, loss functions, optimizers)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Diagnose common neural network failures (NaN loss, flat loss curve, overfitting, oscillation) using systematic debugging strategies

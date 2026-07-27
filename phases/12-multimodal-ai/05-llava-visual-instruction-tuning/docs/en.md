@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 02 (CLIP), Phase 11 (LLM Engineering — instruction tuning)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build a 2-layer MLP projector that maps ViT patch embeddings (dim 1024) to an LLM's embedding dim (dim 4096).

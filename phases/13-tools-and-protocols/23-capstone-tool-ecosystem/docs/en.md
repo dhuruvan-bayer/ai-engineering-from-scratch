@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 01 through 21
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Compose an MCP server exposing tools, resources, prompts, and a task with a `ui://` app.

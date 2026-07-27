@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 02 (function calling), Phase 13 · 17 (gateways)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Distinguish self-hosted, managed, and production-grade routing options.

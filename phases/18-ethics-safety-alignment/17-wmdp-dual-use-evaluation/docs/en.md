@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 16 (red-team tooling), Phase 14 (agent engineering)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe WMDP's three domains, question counts, and "yellow zone" filter criterion.

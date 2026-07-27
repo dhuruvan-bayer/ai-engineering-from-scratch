@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10, Lessons 04, 05, 12 (Pre-training, Scaling, Inference)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Read the config.json of Llama 3, Mistral, Mixtral, Gemma 2, Qwen 2.5, and DeepSeek-V3 and explain every field

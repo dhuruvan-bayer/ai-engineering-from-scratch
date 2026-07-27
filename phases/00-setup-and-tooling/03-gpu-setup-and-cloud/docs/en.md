@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 0, Lesson 01
 **Time:** ~45 minutes
 
+## Progress
+
+- [x] Read the lesson
+- [x] Ran the code and tests
+- [x] Completed the quiz
+
 ## Learning Objectives
 
 - Verify local GPU availability using `nvidia-smi` and PyTorch's CUDA API

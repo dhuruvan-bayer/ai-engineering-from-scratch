@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 13 (LangGraph), Phase 14 · 22 (Voice)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name the six production runtime shapes and match each to a framework / product pattern.

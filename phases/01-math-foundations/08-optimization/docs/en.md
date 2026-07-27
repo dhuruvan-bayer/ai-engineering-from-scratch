@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1, Lessons 04-05 (Derivatives, Gradients)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement vanilla gradient descent, SGD with momentum, and Adam from scratch

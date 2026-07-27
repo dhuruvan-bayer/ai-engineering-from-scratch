@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 07, 08 (MCP server and client)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Pick between stdio and Streamable HTTP based on deployment shape (local vs remote, single-process vs fleet).

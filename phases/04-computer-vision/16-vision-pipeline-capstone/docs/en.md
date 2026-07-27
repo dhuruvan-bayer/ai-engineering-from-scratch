@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 4 Lessons 01-15
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Design a production vision pipeline that detects objects, classifies them, and emits structured JSON — with every failure path handled

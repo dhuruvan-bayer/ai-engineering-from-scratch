@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 lessons 01-07, Phase 14 lesson 01
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Speak JSON-RPC 2.0 framed as newline-delimited JSON over stdin and stdout.
 - Map the five standard error codes (-32700, -32600, -32601, -32602, -32603) and surface them with the right semantics.

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 05, Phase 12 · 07 (recipes)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain why post-hoc VLM training accumulates alignment debt, citing the three measurable symptoms (catastrophic forgetting, answer drift, visual-text inconsistency).

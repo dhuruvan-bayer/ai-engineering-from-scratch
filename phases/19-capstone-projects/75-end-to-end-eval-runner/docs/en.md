@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track B foundations, lessons 70 through 74
 **Time:** ~90 min
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning objectives
 
 - Define a `ModelAdapter` interface that any model (mock, local, API) can satisfy with a small method surface.

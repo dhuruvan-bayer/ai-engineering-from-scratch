@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 0, Lesson 01
 **Time:** ~30 minutes
 
+## Progress
+
+- [x] Read the lesson
+- [x] Ran the code and tests
+- [x] Completed the quiz
+
 ## Learning Objectives
 
 - Install and launch JupyterLab, Jupyter Notebook, or VS Code with the Jupyter extension

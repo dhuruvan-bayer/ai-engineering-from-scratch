@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 19 (SWE-bench, GAIA)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe WebArena's four self-hosted apps and why execution-based evaluation matters.

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 2, Lessons 01-07 (classification, Bayes' theorem)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement Multinomial Naive Bayes from scratch with Laplace smoothing for text classification

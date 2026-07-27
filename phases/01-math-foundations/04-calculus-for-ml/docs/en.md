@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1, Lessons 01-03
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Compute numerical and analytical derivatives for common ML functions (x^2, sigmoid, cross-entropy)

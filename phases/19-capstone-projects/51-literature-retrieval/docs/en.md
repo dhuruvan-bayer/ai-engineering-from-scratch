@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track A lessons 20-29
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Model a small paper record with the fields the loop will read downstream.
 - Build a BM25 index over abstracts with stdlib data structures only.

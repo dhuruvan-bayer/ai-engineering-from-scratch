@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 lessons 01-07, Phase 14 lesson 01
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Represent a plan as an ordered list of typed steps so the executor can reason about progress and outcome.
 - Execute steps sequentially with a controlled failure handoff back to the planner.

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 lessons 30 to 36
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Read a safetensors file with the `safetensors` Python library and inspect the tensor names and shapes.

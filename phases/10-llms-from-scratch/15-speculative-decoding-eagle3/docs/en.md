@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 7 · 16 (speculative decoding math), Phase 10 · 12 (inference optimization)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - State the Leviathan theorem in one sentence and prove that the speculative loop produces samples identically distributed to the verifier.

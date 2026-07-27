@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 lessons 50-53
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Treat a research paper as a structured artifact with a known section graph, not a freeform document.

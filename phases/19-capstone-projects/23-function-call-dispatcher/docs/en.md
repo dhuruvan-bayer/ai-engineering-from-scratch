@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 lessons 01-07, Phase 14 lesson 01
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Wrap a tool handler in a per-call timeout that returns a typed error instead of hanging the loop.
 - Apply exponential backoff retry with jitter and a maximum attempt count.

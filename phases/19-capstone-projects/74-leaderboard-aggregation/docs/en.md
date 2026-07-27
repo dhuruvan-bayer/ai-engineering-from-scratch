@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 Track B foundations, lessons 70, 71, 73
 **Time:** ~90 min
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning objectives
 
 - Aggregate per-task scores across multiple models and multiple tasks into a tidy per-model row.

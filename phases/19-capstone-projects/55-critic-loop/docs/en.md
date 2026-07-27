@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 lessons 50-53
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Score a paper draft across five fixed dimensions: clarity, novelty, evidence, methodology, related-work.

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 0, Lessons 01 and 03
 **Time:** ~60 minutes
 
+## Progress
+
+- [x] Read the lesson
+- [x] Ran the code and tests
+- [x] Completed the quiz
+
 ## Learning Objectives
 
 - Build a GPU-enabled Docker image with CUDA, PyTorch, and AI libraries from a Dockerfile

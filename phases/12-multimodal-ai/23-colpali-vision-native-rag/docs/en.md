@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 11 (LLM Engineering — RAG basics), Phase 12 · 05 (LLaVA)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain the difference between bi-encoder retrieval (one vector per document) and late-interaction retrieval (many vectors per document).

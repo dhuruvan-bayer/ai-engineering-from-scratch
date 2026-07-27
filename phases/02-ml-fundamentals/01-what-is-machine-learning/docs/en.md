@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1 (Math Foundations)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain the difference between supervised, unsupervised, and reinforcement learning and identify which type applies to a given problem

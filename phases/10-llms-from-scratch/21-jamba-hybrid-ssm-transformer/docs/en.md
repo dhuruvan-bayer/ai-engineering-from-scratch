@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10 · 14 (open-model architectures), Phase 10 · 17 (native sparse attention)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain the three primitives in a Jamba block — Transformer layers, Mamba layers, MoE — and the 1:7:even interleaving recipe.

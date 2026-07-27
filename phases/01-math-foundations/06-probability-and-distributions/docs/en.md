@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1, Lessons 01-04
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement PMFs and PDFs from scratch for Bernoulli, categorical, Poisson, uniform, and normal distributions

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 01 (InstructGPT), Phase 10 · 07 (RLHF)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - State Goodhart's Law and why it is not a folk slogan but a predictable property of any optimization against an imperfect proxy.

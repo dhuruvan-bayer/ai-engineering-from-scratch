@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 20 (WebArena, OSWorld), Phase 14 · 27 (Prompt Injection)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe Claude computer use: screenshot in, keyboard/mouse commands out, no accessibility API.

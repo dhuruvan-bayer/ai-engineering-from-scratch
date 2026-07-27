@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 2 · 14 (Naive Bayes)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## The Problem
 
 A model cannot read "The cats were running." It reads integers.

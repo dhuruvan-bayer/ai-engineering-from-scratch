@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 01 (ViT patches), Phase 12 · 05 (LLaVA)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Pack patches from a batch of variable-resolution images into one sequence and build the block-diagonal attention mask.

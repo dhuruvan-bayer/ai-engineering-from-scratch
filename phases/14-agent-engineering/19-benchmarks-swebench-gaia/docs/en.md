@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 06 (Tool Use)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name SWE-bench's test harness (FAIL_TO_PASS) and explain why it gates on unit tests.

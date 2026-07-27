@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 17 · 13 (Observability), Phase 17 · 20 (Progressive Deployment)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Distinguish evals ("can the model do the job") from A/B tests ("do users care").

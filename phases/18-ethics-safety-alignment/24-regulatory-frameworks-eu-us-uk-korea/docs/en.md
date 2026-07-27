@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 18 (frontier frameworks), Phase 18 · 27 (data governance)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe the EU AI Act risk tiers (prohibited, high-risk, general-purpose, limited-risk) and the August 2025 / August 2026 / August 2027 timeline.

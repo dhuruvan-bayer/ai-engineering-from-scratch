@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 06 (Tool Use), Phase 14 · 21 (Computer Use)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - State the indirect prompt injection threat model from Greshake et al.

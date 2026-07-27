@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 17 · 04 (Serving Engine Internals)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Define TTFT, TPOT, ITL, E2E, throughput, and goodput precisely and name the component each one measures.

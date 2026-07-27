@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 lessons 01-07, Phase 14 lesson 01
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Hold a typed registry of tool name → schema → handler that the dispatcher can ask once and trust afterwards.
 - Implement a JSON Schema 2020-12 subset that covers the keywords ninety percent of tool calls actually use.

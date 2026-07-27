@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 20 (bias), Phase 02 (classical ML)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - State the three group-fairness criteria (demographic parity, equalized odds, conditional use accuracy equality) and one impossibility result.

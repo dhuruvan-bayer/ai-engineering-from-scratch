@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 0, Lesson 01
 **Time:** ~20 minutes
 
+## Progress
+
+- [x] Read the lesson
+- [x] Ran the code and tests
+- [x] Completed the quiz
+
 ## Learning Objectives
 
 - Install VS Code with essential extensions for Python, Jupyter, linting, and remote SSH

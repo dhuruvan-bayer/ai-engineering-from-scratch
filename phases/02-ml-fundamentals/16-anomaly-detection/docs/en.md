@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 2, Lessons 01-09
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement Z-score, IQR, and Isolation Forest anomaly detection methods from scratch

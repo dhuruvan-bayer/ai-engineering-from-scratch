@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 7 Lesson 02 (Self-Attention), Phase 4 Lesson 04 (Image Classification)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement patch embedding, learned positional embedding, class token, and transformer encoder blocks from scratch to build a minimal ViT

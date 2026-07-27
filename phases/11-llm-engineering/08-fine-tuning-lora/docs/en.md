@@ -8,6 +8,13 @@
 **Time:** ~75 minutes
 **Related:** Phase 10 covers the SFT/DPO loops from scratch. This lesson plugs those into the 2026 PEFT toolkits (PEFT, TRL, Unsloth, Axolotl, LLaMA-Factory).
 
+
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement LoRA by injecting low-rank adapter matrices (A and B) into a pretrained model's attention layers

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 17 · 13 (Observability), Phase 17 · 21 (A/B Testing)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Distinguish shadow mode (zero-impact compare), canary (live traffic progressive), and A/B (stability-confirmed comparison).

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 07 (MemGPT)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name the three memory tiers Letta uses (core, recall, archival) and the role of each.

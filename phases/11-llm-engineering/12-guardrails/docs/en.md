@@ -8,6 +8,13 @@
 **Time:** ~45 minutes
 **Related:** Phase 11 · 14 (Model Context Protocol) — MCP's resource/tool boundaries interact with guardrails; untrusted resource content must be treated as data, not instructions. Phase 18 (Ethics, Safety, Alignment) goes deeper on policy and red-teaming.
 
+
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement input guardrails that detect and block prompt injection, jailbreak attempts, and toxic content before reaching the model

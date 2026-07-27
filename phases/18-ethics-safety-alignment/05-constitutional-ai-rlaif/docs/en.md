@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 01 (InstructGPT), Phase 18 · 02 (Reward hacking)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe the two phases of Constitutional AI (critique-and-revise SFT, RL from AI feedback) and the role of the constitution in each.

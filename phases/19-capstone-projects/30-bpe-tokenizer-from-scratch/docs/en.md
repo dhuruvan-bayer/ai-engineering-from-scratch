@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 04 lessons, Phase 07 transformer lessons
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Train a Byte-Pair Encoding vocabulary from a raw text corpus by repeatedly merging the most frequent adjacent symbol pair.
 - Implement a deterministic merge table and apply it to fresh text to produce a stream of subword ids.

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10 · 12 (inference optimization), Phase 10 · 15 (speculative decoding)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Describe the three common parallel-LLM topologies (voting, sub-task, Hogwild!) and name which problems each one targets.

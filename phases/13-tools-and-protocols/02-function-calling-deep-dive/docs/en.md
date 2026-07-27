@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 01 (the tool interface)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - State the three shape differences between OpenAI, Anthropic, and Gemini function-calling payloads (declaration, call, result).

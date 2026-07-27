@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 02 (function calling deep dive)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Write a JSON Schema 2020-12 for an extraction target using the right constraints (enum, min/max, required, pattern).

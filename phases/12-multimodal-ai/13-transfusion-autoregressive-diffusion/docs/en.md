@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 11 (Chameleon), Phase 8 (Generative AI)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Wire a transformer that runs two losses (NTP on text tokens, diffusion MSE on image patches) on one backbone.

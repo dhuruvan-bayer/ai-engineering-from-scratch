@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 2, Lesson 12 (Hyperparameter Tuning)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build an ML pipeline from scratch that chains imputation, scaling, encoding, and model training into a single reproducible object

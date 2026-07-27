@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 04 lessons, Phase 07 transformer lessons, Lesson 30 of this phase
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Convert a raw corpus into a stream of token ids by calling the tokenizer once.
 - Slice the id stream into fixed-length windows with a configurable overlap stride.

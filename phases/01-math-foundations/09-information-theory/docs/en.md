@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1, Lesson 06 (Probability)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Compute entropy, cross-entropy, and KL divergence from scratch and explain their relationship

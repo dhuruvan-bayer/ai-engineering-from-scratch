@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 · 07 (MCP server)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Decide between exposing a capability as a tool, a resource, or a prompt for a given domain.

@@ -7,6 +7,12 @@
 **Prerequisites:** All of Phase 14.
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name the three evaluation layers — static benchmarks, custom offline, online production — and what each is for.

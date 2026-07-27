@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1, Lessons 01-04
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement numerically stable softmax and log-sum-exp using the max-subtraction trick

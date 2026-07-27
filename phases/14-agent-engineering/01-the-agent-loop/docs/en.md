@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 11 (LLM Engineering), Phase 13 (Tools and Protocols)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name the three parts of the ReAct loop — Thought, Action, Observation — and explain why each one is load-bearing.

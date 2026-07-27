@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 (Agent Engineering), Lesson 16.01 (Why Multi-Agent)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement MCP tool discovery and invocation so agents can use tools exposed by external servers

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10, Lessons 01-05 (LLMs from Scratch)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build a custom evaluation harness that runs multiple-choice and open-ended benchmarks against a language model

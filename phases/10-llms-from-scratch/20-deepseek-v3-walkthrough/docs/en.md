@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10 · 14 (open-model walkthroughs), Phase 10 · 17 (NSA), Phase 10 · 18 (MTP), Phase 10 · 19 (DualPipe)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Read the DeepSeek-V3 config top to bottom and explain each field in terms of the six GPT-2 knobs plus four DeepSeek-specific additions.

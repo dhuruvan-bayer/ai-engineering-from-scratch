@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 13 (Transfusion), Phase 12 · 14 (Show-o)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Explain why a single shared encoder compromises either understanding or generation quality.

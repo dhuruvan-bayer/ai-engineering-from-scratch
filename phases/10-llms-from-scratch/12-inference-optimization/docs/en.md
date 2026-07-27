@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10, Lessons 01-08 (Transformer architecture, attention)
 **Time:** ~120 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement KV-cache to eliminate redundant computation during autoregressive token generation

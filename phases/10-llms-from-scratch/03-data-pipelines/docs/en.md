@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10, Lessons 01-02 (Tokenizers, Building a Tokenizer)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build a streaming data pipeline that tokenizes, chunks, shuffles, and batches terabytes of text without loading it all into memory

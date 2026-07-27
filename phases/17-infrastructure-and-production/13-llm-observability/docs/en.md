@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 17 · 08 (Inference Metrics), Phase 14 (Agent Engineering)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Distinguish development platforms (bundled: evals + prompts + sessions) from gateway/telemetry tools (traces + metrics only).

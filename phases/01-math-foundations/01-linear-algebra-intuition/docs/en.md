@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 0
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement vector and matrix operations (addition, dot product, matrix multiply) from scratch in Python

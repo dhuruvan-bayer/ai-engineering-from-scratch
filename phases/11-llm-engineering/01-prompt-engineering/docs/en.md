@@ -8,6 +8,13 @@
 **Time:** ~90 minutes
 **Related:** Phase 11 · 05 (Context Engineering) for what else goes in the window; Phase 5 · 20 (Structured Outputs) for token-level format control.
 
+
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Apply the core prompt engineering patterns (role, context, constraints, output format) to transform vague requests into precise instructions

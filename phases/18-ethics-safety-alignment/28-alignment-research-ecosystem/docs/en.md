@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 18 · 01-27 (prior Phase 18 lessons)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Identify the five organisations of the non-lab alignment research ecosystem and their core output.

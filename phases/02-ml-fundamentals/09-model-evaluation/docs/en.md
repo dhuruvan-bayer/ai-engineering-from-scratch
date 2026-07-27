@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 1 (Probability & Distributions, Statistics for ML), Phase 2 Lessons 1-8
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement K-fold and stratified K-fold cross-validation from scratch and explain why stratification matters for imbalanced data

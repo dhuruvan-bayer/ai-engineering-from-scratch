@@ -8,6 +8,13 @@
 **Time:** ~120 minutes
 **Related:** Phase 11 · 14 (MCP) for replacing bespoke tool schemas with a shared protocol; Phase 11 · 15 (Prompt Caching) for 50-90% cost reduction on stable prefixes. Both are expected in every serious 2026 production stack.
 
+
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Wire all Phase 11 components (prompts, RAG, function calling, caching, guardrails) into a single production-ready service

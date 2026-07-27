@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 16 · 07 (Society of Mind and Debate), Phase 16 · 14 (Consensus and BFT)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Problem
 
 Debate can improve accuracy (Du et al., arXiv:2305.14325). It can also degrade it. Whether debate helps depends on four structural choices:

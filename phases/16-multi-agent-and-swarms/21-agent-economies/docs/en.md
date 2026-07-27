@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 16 · 16 (Negotiation and Bargaining), Phase 16 · 09 (Parallel Swarm Networks)
 **Time:** ~75 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Problem
 
 Multi-agent systems get complicated when agents produce value jointly but need to be rewarded individually. Classical mechanisms — equal split, last-contributor-takes-all — are unfair or gameable. Coalition-based rewarding via Shapley values is fair by construction but expensive to compute. The 2025-2026 literature pushes useful approximations: Shapley sampling, monotone aggregation auctions, and on-chain reputation that accrues from confirmed contributions.

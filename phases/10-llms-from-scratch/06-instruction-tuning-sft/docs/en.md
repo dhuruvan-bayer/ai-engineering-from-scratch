@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10, Lesson 04 (Pre-Training a Mini GPT)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement supervised fine-tuning (SFT) that converts a base language model into an instruction-following assistant

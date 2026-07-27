@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 13 lessons 01-07, Phase 14 lesson 01
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 - Specify an agent harness loop as a deterministic state machine with explicit transitions.
 - Implement ten lifecycle hook topics that operators wire policy, telemetry, and guardrails into.

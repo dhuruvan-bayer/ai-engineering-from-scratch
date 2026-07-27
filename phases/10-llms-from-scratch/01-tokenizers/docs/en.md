@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 05 (NLP Foundations)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement BPE, WordPiece, and Unigram tokenization algorithms from scratch and compare their merge strategies

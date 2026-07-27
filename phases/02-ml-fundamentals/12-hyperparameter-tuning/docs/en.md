@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 2, Lesson 11 (Ensemble Methods)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement grid search, random search, and Bayesian optimization from scratch and compare their sample efficiency

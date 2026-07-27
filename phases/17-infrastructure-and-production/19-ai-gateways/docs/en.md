@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 17 · 01 (Managed LLM Platforms), Phase 17 · 16 (Model Routing)
 **Time:** ~60 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Enumerate the six core gateway features (routing, fallback, retries, rate limits, secrets, observability, guardrails).

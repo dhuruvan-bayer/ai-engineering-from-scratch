@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 12 · 05 (LLaVA baseline)
 **Time:** ~180 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name the five-axis VLM design space: image encoder, connector, LLM, data mix, resolution schedule.

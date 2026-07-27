@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 10, Lesson 06 (Instruction Tuning / SFT)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Build a reward model that scores response quality from human preference pairs (chosen vs rejected)

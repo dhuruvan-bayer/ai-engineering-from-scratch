@@ -7,6 +7,12 @@
 **Prerequisites:** None
 **Time:** ~45 minutes
 
+## Progress
+
+- [x] Read the lesson
+- [x] Ran the code and tests
+- [x] Completed the quiz
+
 ## Learning Objectives
 
 - Set up Python 3.11+, Node.js 20+, and Rust toolchains from scratch

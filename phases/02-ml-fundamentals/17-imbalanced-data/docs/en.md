@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 2, Lessons 01-09 (especially evaluation metrics)
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Implement SMOTE from scratch and explain how synthetic oversampling differs from random duplication

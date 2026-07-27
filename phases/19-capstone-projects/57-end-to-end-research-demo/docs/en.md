@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 19 lessons 50-53
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Wire the auto-research loop end to end: hypothesis seed, experiment runner, scheduler, critic loop, paper writer.

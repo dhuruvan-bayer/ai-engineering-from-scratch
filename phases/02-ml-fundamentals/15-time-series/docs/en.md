@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 2, Lessons 01-09
 **Time:** ~90 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Decompose a time series into trend, seasonality, and residual components and test for stationarity

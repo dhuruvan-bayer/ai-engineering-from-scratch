@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 32 (Minimal Workbench), Phase 14 · 33 (Rules as Constraints)
 **Time:** ~50 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Write a scope contract that an agent reads at task start and a verifier reads at task end.

@@ -7,6 +7,12 @@
 **Prerequisites:** Phase 14 · 23 (OTel GenAI)
 **Time:** ~45 minutes
 
+## Progress
+
+- [ ] Read the lesson
+- [ ] Ran the code and tests
+- [ ] Completed the quiz
+
 ## Learning Objectives
 
 - Name the three top open-source agent observability platforms and their licenses.
